@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int somme (int A, int B, int N) ;
+int somme (int A, int B, int N) ; // fonction somme
 void main()
 { int T1[10], T2[10], T3[10] ; int i,n ;
 
